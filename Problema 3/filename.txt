@@ -1,7 +1,0 @@
-Problema 3 
-Lista: 0-17   1-6   2-14   3-2   4-16   5-2   6-19   7-9   8-12   9-14   
-Indices pares: 0-17   2-14   4-16   6-19   8-12   
-Numeros pares: 1-6   2-14   3-2   4-16   5-2   8-12   9-14   
-Lista em sentido inverso:  0-14   1-12   2-9   3-19   4-2   5-16   6-2   7-14   8-6   9-17   
-Primeiro elemento: 17
-Ultimo elemento: 14   
